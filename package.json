@@ -17,6 +17,6 @@
   },
   "devDependencies": {
     "mocha": "6.2.2",
-    "nodemon": "2.0.1"
+    "nodemon": "^2.0.1"
   }
 }
