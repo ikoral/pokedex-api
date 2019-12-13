@@ -145,13 +145,17 @@ const test = [
   ];
 
   const keyValueArray = test.find(item => item["egg"] == "Not in Eggs");
-  console.log(keyValueArray);
+  //console.log(keyValueArray);
 
   const resultArray = test.filter(element => element["egg"] == "Not in Eggs");
-  console.log(resultArray);
+  //console.log(resultArray);
 
   const result = [];
     resultArray.forEach(element => {
         result.push({"num": element.num, "name": element.name})
     });
-  console.log(result);
+  //console.log(result);
+
+  const resultArray2 = test.filter(element => 
+    element["type"].find(item => item == 'Water'));
+  console.log(resultArray2);
