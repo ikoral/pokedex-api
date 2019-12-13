@@ -3,7 +3,6 @@ const type = (pokeArray, type) => {
     const resultArrayFull = pokeArray.filter(element =>
         element["type"].find(item => item == type));
       
-
     //return array include name and num
     const resultArrayExpected = [];
     resultArrayFull.forEach(element => {
