@@ -1,3 +1,24 @@
+## What I struggled with:
+* Understanding code you didn't write
+* Navigating Large structered Project (which file is depends on which file). It takes time to undertand.
+* Reading and understanding JSON data.
+
+## What I have learned:
+* Debugging JavaScript in VSC
+* Running tests from the terminal with _mocha_
+* Using npm command
+* Exploring and understanding large data sets
+* Reading and understanding JSON data
+
+## What skills I need to Work:
+* Running API's with Node.js & VSC
+* Testing them with the browser and Postman
+* URL Request parameters
+* Reading and understanding JSON data
+
+
+
+
 # PokeDex API
 
 A project  built around [Biuni's PokeDex Data Set](https://github.com/Biuni/PokemonGO-Pokedex/blob/master/pokedex.json) as an introduction to API's, working on large code bases, TDD, and Node.js.
