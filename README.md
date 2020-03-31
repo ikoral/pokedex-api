@@ -74,7 +74,7 @@ Enjoy!
 * Setting up and running other people's projects
 
 
-#### Working with Data
+### Working with Data
 * Exploring and understanding large data sets
 * Reading and understanding JSON data
 * Processing more data than you can read at once
